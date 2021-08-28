@@ -7,13 +7,12 @@ Translate: Hi there, my name is Murilo!
 </div>
   <!-- Lingugens -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><div style="display: inline_block">
+<p align="center"><div>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="center" alt="Murilo-Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img aling="center" alt="Murilo-GCP" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-  <img aling="center" alt="Murilo-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Murilo-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <img align="center" alt="Murilo-Firebase" height="35" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   </a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
