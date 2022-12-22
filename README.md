@@ -13,7 +13,7 @@ Translate: Hi there, my name is Murilo!
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Murilo-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img align="center" alt="Murilo-Firebase" height="35" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" alt="Murilo-Firebase" height="35" width="40" src="https://findicons.com/files/icons/977/rrze/48/database_mysql.png">
+  <img align="center" alt="Murilo-Firebase" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
